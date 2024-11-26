@@ -1,0 +1,5 @@
+./longest_common_sequence_serial --nThreads 4 --inputFile=sample_inputs/input1
+Number of threads : 1
+thread_id, start_row, end_row , time_taken
+0, 0, 249, 11.447
+Time taken (in seconds) : 11.448
